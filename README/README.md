@@ -34,7 +34,7 @@ __________________
 
 List any information about the project that might be useful:
 
-Language(s): Lorem ipsum dolor sit amet
+Language(s): Python, Lorem ipsum dolor sit amet
 
 Framework(s): Lorem ipsum dolor sit amet
 
@@ -46,8 +46,8 @@ Style guide(s): Lorem ipsum dolor sit amet
 
 Before using {Project name}, install necessary pkgs:
 
+* [Python](https://www.python.org/downloads/)
 * [PKG_NAME](https://www.python.org/downloads/)
-* [...]
 
 ### Requirements
 
