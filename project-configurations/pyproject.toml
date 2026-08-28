@@ -1,0 +1,16 @@
+# Refer to the information in the Project Configurations article: /home/dani/Work-Projects/project-komquat/docs/Project-Configuration.md
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "<PROJECT_NAME>"
+version = "1.0.0"
+dependencies = [
+    "<PYTHON_PACKAGE>",
+    "<PYTHON_PACKAGE>",
+    "<PYTHON_PACKAGE>"
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
