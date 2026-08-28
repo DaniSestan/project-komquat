@@ -15,12 +15,21 @@ applications/<PROGRAMMING_LANGUAGE>
 ```
 
 ## How to use this project
+```
+wget -O <LOCAL_FILENAME> <GITHUB_LINK_TO_RAW_FILE>
+
+# Example:
+wget -O ~/my-repository/README.md https://github.com/DaniSestan/project-komquat/raw/refs/heads/programs/python/README/README.md
+```
+
+OR
 
 ```
 git clone git@github.com:DaniSestan/project-komquat.git
 git checkout <BRANCH>
-wget -O <FILENAME> <FILEPATH>
-# e.g., wget -O README.md README/README.md
+git pull git@github.com:DaniSestan/project-komquat.git --all
+git push git@github.com:DaniSestan/project-komquat.git --all
+cp README/README.md <LOCAL_FILEPATH_OF_README>
 ```
 
 ## Additional Information
