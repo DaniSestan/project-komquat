@@ -2,7 +2,7 @@
 
 ## Overview
 
-Every document quacks, or hacks. I've made my process of working on project repositories somewhat easier with a templated set of standard documents that can be requested for any software project.
+Technical documentation is important to keep track of the work. Every document quacks, or hacks. I've made my process of working on project repositories somewhat easier with a templated set of standard documents that can be requested for any software project.
 Technical documentation is organized in different branches:
 
 ```
